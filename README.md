@@ -1,3 +1,10 @@
+En la Branch taller-sofka esta la app correspondiente al campus.
+
+En la Branch main, es una app basada en otro tutorial.
+
+DEPLOY: https://feder-messenger.web.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
